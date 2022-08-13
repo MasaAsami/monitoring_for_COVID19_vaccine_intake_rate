@@ -1,0 +1,2 @@
+# monitoring_for_COVID19_vaccine_intake_rate
+都道府県別コロナワクチン摂取率モニタリング
